@@ -1,0 +1,6 @@
+﻿  laba 3.2_class3.cpp
+  Source.cpp
+C:\Users\MRW\source\repos\laba 3.2\laba 3.2_class3\laba 3.2_class3\Source.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Создание кода...
+C:\Users\MRW\source\repos\laba 3.2\laba 3.2_class3\laba 3.2_class3\Source.cpp(57,1): warning C4715: readstr: значение возвращается не при всех путях выполнения
+  laba 3.2_class3.vcxproj -> C:\Users\MRW\source\repos\laba 3.2\laba 3.2_class3\x64\Debug\laba 3.2_class3.exe
